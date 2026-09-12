@@ -1,5 +1,5 @@
 # Go module usage
-
++919328233542
 You can easily use scanners in your own Golang script. You can find [Go documentation here](https://pkg.go.dev/github.com/sundowndev/phoneinfoga/v2).
 
 ### Install the module
